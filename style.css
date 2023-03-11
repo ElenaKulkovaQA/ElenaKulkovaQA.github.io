@@ -45,7 +45,7 @@ h3{
     font-size: 30 px
     }
 
-.title-block:: ::after{
+.title-block:: after{
     content: "";
     position: absolute;
     left: 0;
@@ -68,8 +68,8 @@ h3{
     display: flex;
      height: 100%;
      width:30%;
-          background: url(https://koshka.top/uploads/posts/2021-11/thumbs/1638090938_28-koshka-top-p-kota-v-ochkakh-na-avu-32.jpg)
-    no-repeat center center /cover;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmdHRvDgbmySWVEDM5vBVwVKCBtBVyKi8Kg&usqp=CAU)
+        no-repeat center center /cover;
 }
 
 .nav ul{
