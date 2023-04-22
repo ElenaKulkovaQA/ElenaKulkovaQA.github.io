@@ -68,17 +68,13 @@ h3{
     display: flex;
      height: 100%;
      width:30%;
-  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmdHRvDgbmySWVEDM5vBVwVKCBtBVyKi8Kg&usqp=CAU)
-        no-repeat center center /cover;
-}
+     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjF0tOZiZ_djglUkI45Cqcek1Io_Yg7QNrA&usqp=CAU)
+       }
 
 .nav ul{
     display: flex; 
     background: rgb(245, 226, 249);
     margin: 10px 0
-}
-.nav li{
-
 }
 
 .nav li a{
