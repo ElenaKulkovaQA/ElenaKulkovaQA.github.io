@@ -1,4 +1,4 @@
-@import url(@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300;0,400;0,500;1,600&display=swap'));
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300;0,400;0,500;1,600&display=swap');
 
 body{
    font-family: 'Caveat', cursive;
@@ -34,7 +34,7 @@ h3{
 .title-block{
     position: relative;
     display: flex;
-    width:70%;
+    width:78.5%;
     height: 100%;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEqlx_it8WNCFS_HC53cBIpK3Bq2WhDPawg&usqp=CAU)
     no-repeat center center /cover;
@@ -45,7 +45,7 @@ h3{
     font-size: 30 px
     }
 
-.title-block:: after{
+.title-block::after{
     content: "";
     position: absolute;
     left: 0;
@@ -67,9 +67,9 @@ h3{
 .userpic{ 
     display: flex;
      height: 100%;
-     width:30%;
-     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjF0tOZiZ_djglUkI45Cqcek1Io_Yg7QNrA&usqp=CAU)
-       }
+     width:23.95%;
+     
+}
 
 .nav ul{
     display: flex; 
@@ -96,7 +96,7 @@ h3{
     }
 
     .content {
-        width: 70%;
+        width: 80%;
         padding: 20px;
     }
 
@@ -106,15 +106,15 @@ line-height: 20px;
 
     .sidebar {
         padding: 20px;
-        width: 30%;
+        width: 20%;
     }
 
-    .Skills li {
+    .Stack li {
 margin: 10px 0;
 transition: transform .5s ease;
 cursor: pointer;
     }
 
-    .Skills li:hover{
+    .Stack li:hover{
         transform: translateX(10px);
     }
